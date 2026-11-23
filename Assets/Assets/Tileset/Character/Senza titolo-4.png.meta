@@ -1,0 +1,951 @@
+fileFormatVersion: 2
+guid: 350feee58a533b44b948c44ff8257c9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3478766892031510834
+    second: Senza titolo-4_0
+  - first:
+      213: 1576406043163688102
+    second: Senza titolo-4_1
+  - first:
+      213: -206588957653953110
+    second: Senza titolo-4_2
+  - first:
+      213: 4468637128809566189
+    second: Senza titolo-4_3
+  - first:
+      213: 2034042621087445327
+    second: Senza titolo-4_4
+  - first:
+      213: 5003134880264711437
+    second: Senza titolo-4_5
+  - first:
+      213: 3500788822761990039
+    second: Senza titolo-4_6
+  - first:
+      213: 3621553807779473924
+    second: Senza titolo-4_7
+  - first:
+      213: -8074198951052155224
+    second: Senza titolo-4_8
+  - first:
+      213: -7846373130949387727
+    second: Senza titolo-4_9
+  - first:
+      213: 3298814093162316386
+    second: Senza titolo-4_10
+  - first:
+      213: -8144811959911452182
+    second: Senza titolo-4_11
+  - first:
+      213: -2111540489913727475
+    second: Senza titolo-4_12
+  - first:
+      213: 5169685638510063099
+    second: Senza titolo-4_13
+  - first:
+      213: -865602269630916647
+    second: Senza titolo-4_14
+  - first:
+      213: -1839769037516126775
+    second: Senza titolo-4_15
+  - first:
+      213: 6919072814173058637
+    second: Senza titolo-4_16
+  - first:
+      213: 8520297976830724379
+    second: Senza titolo-4_17
+  - first:
+      213: 4484757022011793851
+    second: Senza titolo-4_18
+  - first:
+      213: 4410999788958317069
+    second: Senza titolo-4_19
+  - first:
+      213: 4052290562737268321
+    second: Senza titolo-4_20
+  - first:
+      213: -7234484723834906536
+    second: Senza titolo-4_21
+  - first:
+      213: -1506099964545708260
+    second: Senza titolo-4_22
+  - first:
+      213: -2162670124448420453
+    second: Senza titolo-4_23
+  - first:
+      213: -641620947870891437
+    second: Senza titolo-4_24
+  - first:
+      213: -3998318740890226382
+    second: Senza titolo-4_25
+  - first:
+      213: -4227870843908591273
+    second: Senza titolo-4_26
+  - first:
+      213: 9012132751015612125
+    second: Senza titolo-4_27
+  - first:
+      213: 4115840263660322589
+    second: Senza titolo-4_28
+  - first:
+      213: 8609529669764183712
+    second: Senza titolo-4_29
+  - first:
+      213: 2648770635483023785
+    second: Senza titolo-4_30
+  - first:
+      213: 1254174424868118194
+    second: Senza titolo-4_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Senza titolo-4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6721861ffe8bfc0800000000000000
+      internalID: -3478766892031510834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 410
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acfc80b1f480e510800000000000000
+      internalID: 1576406043163688102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 410
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa59484007c022df0800000000000000
+      internalID: -206588957653953110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 410
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defc0d4fac9c30e30800000000000000
+      internalID: 4468637128809566189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41fbefacfe5a3c10800000000000000
+      internalID: 2034042621087445327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_5
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 352
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d6b857aa4be6540800000000000000
+      internalID: 5003134880264711437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 352
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797e266e2ec459030800000000000000
+      internalID: 3500788822761990039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 352
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40aa8a71008524230800000000000000
+      internalID: 3621553807779473924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a664bc35dea2ff80800000000000000
+      internalID: -8074198951052155224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 294
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a979295351c1390800000000000000
+      internalID: -7846373130949387727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 294
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2620efa90fdb7cd20800000000000000
+      internalID: 3298814093162316386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 294
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1ff1feca0d7fe80800000000000000
+      internalID: -8144811959911452182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0686d1ac1d42b2e0800000000000000
+      internalID: -2111540489913727475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 236
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfda4d3b2b96eb740800000000000000
+      internalID: 5169685638510063099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 236
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d790e96253ccf3f0800000000000000
+      internalID: -865602269630916647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 236
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5c612dec3d776e0800000000000000
+      internalID: -1839769037516126775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46f8dfc01c750060800000000000000
+      internalID: 6919072814173058637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 178
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1989711edd2e3670800000000000000
+      internalID: 8520297976830724379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_18
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 178
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1a3f010ce0d3e30800000000000000
+      internalID: 4484757022011793851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_19
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 178
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0afe2500f4073d30800000000000000
+      internalID: 4410999788958317069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1666f9efbc0ac3830800000000000000
+      internalID: 4052290562737268321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_21
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 120
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85894de3972f99b90800000000000000
+      internalID: -7234484723834906536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_22
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 120
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f4609df02491be0800000000000000
+      internalID: -1506099964545708260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_23
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 120
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9de6e9eaf6acf1e0800000000000000
+      internalID: -2162670124448420453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352c4b9b5218817f0800000000000000
+      internalID: -641620947870891437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 62
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23173760a4e1388c0800000000000000
+      internalID: -3998318740890226382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_26
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 62
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751f8902ed59355c0800000000000000
+      internalID: -4227870843908591273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 62
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde03fc1df6811d70800000000000000
+      internalID: 9012132751015612125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f39b3c9e66e1930800000000000000
+      internalID: 4115840263660322589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_29
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 4
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6fa719e913b7770800000000000000
+      internalID: 8609529669764183712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_30
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 4
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a98373fbd252c420800000000000000
+      internalID: 2648770635483023785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza titolo-4_31
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 4
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bed4a89ef8b76110800000000000000
+      internalID: 1254174424868118194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 384cc774b057ee5459dd62388a476c26
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":8.0},"gridSpriteSize":{"x":54.0,"y":58.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Senza titolo-4_0: -3478766892031510834
+      Senza titolo-4_1: 1576406043163688102
+      Senza titolo-4_10: 3298814093162316386
+      Senza titolo-4_11: -8144811959911452182
+      Senza titolo-4_12: -2111540489913727475
+      Senza titolo-4_13: 5169685638510063099
+      Senza titolo-4_14: -865602269630916647
+      Senza titolo-4_15: -1839769037516126775
+      Senza titolo-4_16: 6919072814173058637
+      Senza titolo-4_17: 8520297976830724379
+      Senza titolo-4_18: 4484757022011793851
+      Senza titolo-4_19: 4410999788958317069
+      Senza titolo-4_2: -206588957653953110
+      Senza titolo-4_20: 4052290562737268321
+      Senza titolo-4_21: -7234484723834906536
+      Senza titolo-4_22: -1506099964545708260
+      Senza titolo-4_23: -2162670124448420453
+      Senza titolo-4_24: -641620947870891437
+      Senza titolo-4_25: -3998318740890226382
+      Senza titolo-4_26: -4227870843908591273
+      Senza titolo-4_27: 9012132751015612125
+      Senza titolo-4_28: 4115840263660322589
+      Senza titolo-4_29: 8609529669764183712
+      Senza titolo-4_3: 4468637128809566189
+      Senza titolo-4_30: 2648770635483023785
+      Senza titolo-4_31: 1254174424868118194
+      Senza titolo-4_4: 2034042621087445327
+      Senza titolo-4_5: 5003134880264711437
+      Senza titolo-4_6: 3500788822761990039
+      Senza titolo-4_7: 3621553807779473924
+      Senza titolo-4_8: -8074198951052155224
+      Senza titolo-4_9: -7846373130949387727
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
