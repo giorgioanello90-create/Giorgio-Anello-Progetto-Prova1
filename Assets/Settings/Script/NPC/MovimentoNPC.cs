@@ -7,7 +7,7 @@ public class MovimentoNPC : MonoBehaviour
     [Header("Comportamento")]
     [SerializeField] private float velocita = 2.5f;
     [SerializeField] private Vector2 direzioneIniziale = Vector2.down;
-    [SerializeField] private float distanzaArrivo = 0.10f;
+    [SerializeField] private float distanzaArrivo = 0.8f;
 
     private Rigidbody2D corpo;
     private Animator animatore;
@@ -31,7 +31,7 @@ public class MovimentoNPC : MonoBehaviour
 
     private void Start()
     {
-       AggiornaAnimazione(Vector2.zero, false);
+        AggiornaAnimazione(Vector2.zero, false);
     }
 
     public void MuoviVerso(Vector2 punto, float velocitaPersonalizzata = -1f)
@@ -52,15 +52,14 @@ public class MovimentoNPC : MonoBehaviour
         haDestinazione = false;
     }
 
-    // Solo questo componente aggiorna fisica e animazioni dell’NPC.
     private void FixedUpdate()
     {
-       if(!haDestinazione || Arrivato(destinazione))
-       {
+        if (!haDestinazione || Arrivato(destinazione))
+        {
             corpo.linearVelocity = Vector2.zero;
             AggiornaAnimazione(Vector2.zero, false);
             return;
-       }
+        }
 
         Vector2 spostamento = destinazione - corpo.position;
         Vector2 direzione = spostamento.normalized;
@@ -100,6 +99,13 @@ public class MovimentoNPC : MonoBehaviour
         return risultato.collider == null;
     }
 
+    public void GuardaVerso(Vector2 punto)
+    {
+        Vector2 direzione = punto - corpo.position;
+        if (direzione.sqrMagnitude < 0.01f) { return; }
+        direzioneGuardata = direzione.normalized;
+        AggiornaAnimazione(Vector2.zero, false);
+    }
     private void OnDisable()
     {
         haDestinazione = false;
@@ -109,7 +115,7 @@ public class MovimentoNPC : MonoBehaviour
             corpo.linearVelocity = Vector2.zero;
         }
 
-        if(animatore != null)
+        if (animatore != null)
         {
             AggiornaAnimazione(Vector2.zero, false);
         }
