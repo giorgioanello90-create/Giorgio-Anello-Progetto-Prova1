@@ -18,7 +18,7 @@ TagManager:
   - Muri_P0
   - Muri_P1
   - Scale
-  - 
+  - Nemici
   - 
   - 
   - 
@@ -51,6 +51,9 @@ TagManager:
     locked: 0
   - name: Personaggio_P0
     uniqueID: 272026247
+    locked: 0
+  - name: Nemici
+    uniqueID: 3868137399
     locked: 0
   - name: Personaggio_P1
     uniqueID: 1245368283
