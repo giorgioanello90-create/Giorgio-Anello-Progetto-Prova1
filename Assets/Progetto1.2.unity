@@ -226762,7 +226762,7 @@ Tilemap:
       - {fileID: -2664502254669432612, guid: 52098a40d7f00f74fab9019f10258d3c, type: 3}
       - {fileID: 2339070538383146887, guid: 52098a40d7f00f74fab9019f10258d3c, type: 3}
       - {fileID: 1794980880798166544, guid: 52098a40d7f00f74fab9019f10258d3c, type: 3}
-      m_AnimationSpeed: 10
+      m_AnimationSpeed: 10.000001
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: -5, y: -11, z: 0}
@@ -265425,7 +265425,6 @@ GameObject:
   - component: {fileID: 1864284534}
   - component: {fileID: 1864284533}
   - component: {fileID: 1864284532}
-  - component: {fileID: 1864284531}
   m_Layer: 6
   m_Name: NPC_GuardiaPonte
   m_TagString: Nemici
@@ -265448,21 +265447,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 318839055}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1864284531
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1864284529}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2fd2afbc6b7583144a98179d20e91dd6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::MovimentoNPC
-  velocita: 2.5
-  direzioneIniziale: {x: 0, y: -1}
-  distanzaArrivo: 0.1
 --- !u!50 &1864284532
 Rigidbody2D:
   serializedVersion: 5
@@ -273984,7 +273968,7 @@ Tilemap:
       - {fileID: -2664502254669432612, guid: 52098a40d7f00f74fab9019f10258d3c, type: 3}
       - {fileID: 2339070538383146887, guid: 52098a40d7f00f74fab9019f10258d3c, type: 3}
       - {fileID: 1794980880798166544, guid: 52098a40d7f00f74fab9019f10258d3c, type: 3}
-      m_AnimationSpeed: 10.000001
+      m_AnimationSpeed: 10
       m_AnimationTimeOffset: 0
       m_Flags: 0
   m_TileAssetArray:
@@ -274209,7 +274193,6 @@ GameObject:
   - component: {fileID: 1916095616}
   - component: {fileID: 1916095614}
   - component: {fileID: 1916095615}
-  - component: {fileID: 1916095613}
   - component: {fileID: 1916095612}
   - component: {fileID: 1916095617}
   m_Layer: 0
@@ -274392,21 +274375,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Nemico
   nomePersonaggio: Nemico1
---- !u!114 &1916095613
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1916095604}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 65cca1b6993db2449bff25540b728ec4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::StatistichePersonaggio
-  vitaMassima: 100
-  forza: 10
-  difesa: 5
 --- !u!114 &1916095614
 MonoBehaviour:
   m_ObjectHideFlags: 0
